@@ -1,0 +1,2 @@
+# EmoDecode
+Competicion Kaggle EmoDecode
